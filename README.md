@@ -14,8 +14,7 @@
 유스케이스
 
 #1 관리자
-
-![image](https://user-images.githubusercontent.com/99131587/152734891-fa5bd7a3-d3c5-429f-90a5-acc9bb6ef2b7.png)
+![image](https://user-images.githubusercontent.com/99131587/152735728-92842885-125e-40a3-b8e1-9793009832dd.png)
 
 #2 사용자
 ![image](https://user-images.githubusercontent.com/99131587/152735199-9dc12be5-9306-4c7a-9d58-48c8e0d51402.png)
