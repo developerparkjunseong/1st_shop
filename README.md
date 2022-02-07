@@ -6,7 +6,6 @@
 핵심요소 : 코드작성(메서드 기능 구현), GUI 디자인
 
 총 일정 : 2021.10.25 ~ 2021.12.10(7주)
-![image](https://user-images.githubusercontent.com/99131587/152735033-1eef2836-47fa-4161-8124-052db6c86bb6.png)
 
 주요기능
 ![image](https://user-images.githubusercontent.com/99131587/152735124-a540d167-5f31-4d7b-bb97-350f4e783535.png)
